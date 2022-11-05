@@ -1,3 +1,23 @@
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/kalpeshgandha rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-3c4a4bd4-ccff-44b6-bfdd-2388b3d3b71a' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >kalpeshgandha</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>I can create decorative, attractive and a quality Thumbnail for Instagram YouTube and for any other social media accounts.
+I will be giving my survice at an affordable price to you.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-3c4a4bd4-ccff-44b6-bfdd-2388b3d3b71a' src='https://widgets.fiverr.com/api/v1/seller/kalpeshgandha?widget_id=3c4a4bd4-ccff-44b6-bfdd-2388b3d3b71a' data-config='{"category_name":"Graphics \u0026 Design"}' async='true' defer='true'></script>
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/26984844-4bc5-4fa2-8d6e-ef1d1214bcc8/deploy-status)](https://app.netlify.com/sites/desitalks/deploys)
+
 ![github-banner](https://user-images.githubusercontent.com/3611928/169144953-49223b21-1e00-4607-971a-4f870468a986.svg)
 
 This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
